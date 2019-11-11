@@ -15,7 +15,7 @@ const arr = [1, 2, 3, 'asd', 5];
 const obj = {
   name: 'Jano',
   age: 27,
-  favoriteAnimals: ['dog', 'cat', 'capibarra']
+  favoriteAnimals: ['dog', 'cat', 'capybara']
 };
 console.log(str, num, bool, arr, obj);
 
